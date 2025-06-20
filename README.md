@@ -1,5 +1,5 @@
 
-# ElectronicStore
-Spring Boot projects (Electronic Store)
+# JsonWebToken
+Spring Boot projects (JWT)
 using springboot and JPA
 
